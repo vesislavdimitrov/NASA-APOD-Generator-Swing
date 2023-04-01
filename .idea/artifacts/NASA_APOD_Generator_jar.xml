@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NASA_APOD_Generator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NASA_APOD_Generator_jar</output-path>
+    <root id="archive" name="NASA_APOD_Generator.jar">
+      <element id="module-output" name="NASA_APOD_Generator" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.16/httpcore-4.4.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.14/httpclient-4.5.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/json/json/20230227/json-20230227.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.11/commons-codec-1.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
