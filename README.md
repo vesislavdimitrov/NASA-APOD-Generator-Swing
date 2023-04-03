@@ -1,2 +1,3 @@
 # NASA-APOD-Generator-Swing
-mega wip
+
+super early work in progress, exceptions are still fked
