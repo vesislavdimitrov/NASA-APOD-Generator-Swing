@@ -5,7 +5,8 @@ import data.NasaAPODClient;
 public class APODDataParser extends DataParser {
 
     public APODDataParser() {
-        super(new NasaAPODClient());
+        super(new NasaAPODClient(e -> {
+        }));
     }
 
     public String parseImageToJson(){
